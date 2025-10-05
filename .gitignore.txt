@@ -1,0 +1,86 @@
+# =========================
+# 🍕 Pizza Sales Analysis Project
+# Environment: Windows + Jupyter + VS Code + Python
+# =========================
+
+# -------------------------
+# 🐍 Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# -------------------------
+# 📓 Jupyter Notebooks
+# -------------------------
+.ipynb_checkpoints/
+# Temporary Jupyter outputs
+*.nbconvert.ipynb
+*.ipynb_checkpoints/
+
+# -------------------------
+# 🧮 Data Files
+# -------------------------
+# Don’t upload raw or processed data
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.zip
+*.gz
+
+# -------------------------
+# 📊 Reports / Exports
+# -------------------------
+reports/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.html
+
+# -------------------------
+# 🧰 Virtual Environments
+# -------------------------
+venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# -------------------------
+# 💻 IDE / OS Specific
+# -------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# 🧪 Logs / Cache
+# -------------------------
+*.log
+*.tmp
+*.bak
+__MACOSX/
+.cache/
+*.ipynb_checkpoints/
+
+# -------------------------
+# ⚙️ Other temporary or large files
+# -------------------------
+*.tar
+*.tar.gz
+*.rar
+*.7z
